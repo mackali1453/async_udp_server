@@ -14,14 +14,7 @@ struct PlatformData {
 	unsigned char position = 0;
 	unsigned char velocity = 0;
 	unsigned char acceleration = 0;
-//	float temperature = 5;
-//	float current = 6;
-//	float torque = 7;
-//	char driver = 8;
-//	float voltage = 9;
-//	float encoder = 10;
-//	char limitSensor1 = 11;
-//	char limitSensor2 = 12;
+
 };
 //
 //#pragma pack(pop,r1)
